@@ -1,0 +1,13 @@
+nimi = "      Ivi"
+
+
+puts "Ivi\" hilt"
+puts "ivi \nhilt"
+puts nimi.strip()
+puts nimi.length()
+puts nimi.include? "vi"
+puts nimi[8]
+puts nimi[5,9]
+puts nimi.index("I")
+puts nimi.index("vi")
+puts "asioita".upcase()

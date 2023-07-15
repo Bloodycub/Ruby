@@ -1,0 +1,14 @@
+
+n1 = 1.4
+n2 = 2
+puts ("yhteen lasku " +n1.to_s+n2.to_s)
+puts n1.abs()
+puts n1.floor()
+puts n1.ceil()
+puts Math.sqrt(36)
+puts Math.log(1)
+puts 1+ 7.0
+arvo = 10/7.0
+puts arvo
+puts x = arvo.floor
+puts x + 1

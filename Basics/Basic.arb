@@ -1,0 +1,5 @@
+puts"Nimeni on ivi"
+print"Yksin kertanen koodi"
+puts "puts vaihtaa riviä ku kirjottaa"
+puts "mutta print kirjottaa peräkäin"
+print"mutta jos print on ekana niin sitte kaikki tulee putkeen"

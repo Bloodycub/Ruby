@@ -1,0 +1,11 @@
+
+Ika = "20"
+Nimi = "Rukko"
+
+puts "Tarina kertoo tyypistä nimeltään " + Nimi
+puts "olipa kerran"
+puts Ika + " vuotjas ja nimi oli " + Nimi
+Ika = "21"
+Nimi = "Max"
+puts "Hän täytti " + Ika + " Ja nimi Vaihtu " + Nimi
+puts "mutta hän halusi ohjelmoida"

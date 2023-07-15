@@ -1,0 +1,5 @@
+Nimi = "Ivi"
+ikä = 27
+ikä_desi = 27.7
+oikeasti = false
+tyhjä = nil
